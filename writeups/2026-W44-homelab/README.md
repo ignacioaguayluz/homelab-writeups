@@ -35,7 +35,7 @@ Configuración de la VM:
 | CPU | 2 núcleos |
 | Disco | 50 GB |
 
-![Configuración de la VM en UTM](img/edit.png)
+![Configuración de la VM en UTM](edit.png)
 
 Dejé desmarcada la opción de Apple Virtualization porque el motor QEMU me permite copiar y pegar entre el Mac y Kali, y crear una red *Host Only* para aislar las máquinas.
 
@@ -56,7 +56,7 @@ Al terminar, antes de reiniciar:
 
 Al encender ya entré al escritorio de Kali.
 
-![Configuración de la VM en UTM](img/desktop-kali.png)
+![Configuración de la VM en UTM](desktop-kali.png)
 
 ### Después de instalar
 
@@ -117,7 +117,7 @@ Siendo honesto: cuando empecé este reto no sabía qué estaba buscando. Abrí l
 
 Escribí la dirección a mano en el navegador: `http://localhost:3000/#/score-board`
 
-![Configuración de la VM en UTM](img/score-board.png)
+![Configuración de la VM en UTM](score-board.png)
 
 ### Lo que entendí después
 
